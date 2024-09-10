@@ -12,6 +12,7 @@
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url("./assets/assets/moon-stars.svg");
   --profiler-border: white;
+  --personal-instagram: darkorange;
 }
 /* light mode properties */
 .light-mode {
@@ -23,6 +24,7 @@
   --highlight-color: rgba(0, 0, 0, 0.1);
   --switch-bg-url: url("./assets/assets/sun.svg");
   --profiler-border: purple;
+  --personal-instagram: purple;
 }
 /*  */
 /* body bg*/
@@ -56,7 +58,7 @@ body * {
 #profile img {
   width: 142px;
   height: 130px;
-  border: 3px solid var(--profiler-border);
+  border: 3px solid var(--personal-instagram);
   border-radius: 50%;
 }
 #profile p {
@@ -66,7 +68,7 @@ body * {
 }
 #profile a {
   text-decoration: none;
-  color: purple;
+  color: var(--personal-instagram);
 }
 /* */
 /* switcher settings */
@@ -156,6 +158,6 @@ footer {
 }
 footer a {
   text-decoration: none;
-  color: purple;
+  color: var(--personal-instagram);
 }
 /*  */
