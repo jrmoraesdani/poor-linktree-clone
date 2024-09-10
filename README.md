@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#-Used Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project Description">About project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-License">Licensee</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-layout">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
