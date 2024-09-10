@@ -34,7 +34,7 @@ Customizable page that houses all your important links that you want to share wi
 
 ## 📋 Layout
 
-You can see the project layout by clicking <a href="https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover">here</a>.
+You can see the project layout by clicking <a href="https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover" target="_blank">here</a>.
 
 ## 🧾 License
 
