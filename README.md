@@ -1,4 +1,4 @@
-<h1 align="center"> LinkTree Poor Clone </h1>
+<h1 align="center">Poor LinkTree Clone</h1>
 
 <p align="center">
 <a href="https://www.instagram.com/dani.rnj/">Did you liked? Click here and get in touch with me for more informations. <br>@dani.rnj</a>
